@@ -1,7 +1,7 @@
 # Hi, I'm [Samuel (Samus)](https://github.com/samusfree) 👋
-![Pronouns](https://img.shields.io/badge/Pronouns-She%2FHer-brightgreen?style=flat)
+![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
 
-<p style="text-align: center;">I'm an enthusiastic and self-driven Java Developer 🚀 from Peru. I have a good command of Java, Spring Boot and cloud technologies such as AWS and Azure, I'm currently focusing on Cloud project with java and broading my knowledge of Cloud technologies.</p>
+<p style="text-align: center;">I'm an enthusiastic and self-driven Java Developer 🚀 from Peru. I have a good command of Java, Spring Boot and cloud technologies such as AWS and Azure, I'm currently focusing on Cloud projects with java, Spring boot, AWS, NodeJS, AWS Lambda and broading my knowledge of Cloud technologies.</p>
 
 If you have any offers or projects in mind, please feel free to contact me:
 
@@ -12,8 +12,8 @@ If you have any offers or projects in mind, please feel free to contact me:
 
 -  **Learning :** AWS :zap: | Clean architecture
 -  **Languages :** Java, JavaScript, TypeScript.
--  **Hobbies :** Lover of sitcoms love marathon of series.
--  **Fun Fact :** I love travel and learn
+-  **Hobbies :** Lover of sitcoms, a weekend of binge watching is a perfect weekend.
+-  **Fun Fact :** I love travel and learn. Also have a big love for discover new beers on the world.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
