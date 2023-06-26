@@ -11,7 +11,7 @@ If you have any offers or projects in mind, please feel free to contact me:
 ### 🌱 About Me
 
 -  **Learning :** AWS :zap: | Clean architecture
--  **Languages :** Java, JavaScript, TypeScript.
+-  **Languages :** Java, JavaScript, TypeScript, C#.
 -  **Hobbies :** Lover of sitcoms, a weekend of binge watching is a perfect weekend.
 -  **Fun Fact :** I love travel and learn. Also have a big love for discover new beers on the world.
 
